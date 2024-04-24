@@ -1,3 +1,3 @@
 //testing
 
-console.log("test hijab")
+console.log("test hijab");
